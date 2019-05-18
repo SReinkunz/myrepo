@@ -1,10 +1,6 @@
----
-title: "Markdown_File"
-author: "Sebastian Reinkunz"
-date: "5/17/2019"
-output: 
-  html_document: 
-    keep_md: yes
----
+Markdown\_File
+================
+Sebastian Reinkunz
+5/17/2019
 
-Hello World
+hello world
