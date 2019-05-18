@@ -7,3 +7,8 @@ output: github_document
    # keep_md: yes
 ---
 hello world
+
+```{r}
+plot(cars)
+```
+
